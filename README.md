@@ -1,3 +1,4 @@
+```
 akshay@akshay-ThinkPad-T470:~/Practice/vehicle-rental$ mvn clean install -T 1C 
 [INFO] Scanning for projects...
 [INFO] 
@@ -45,9 +46,9 @@ akshay@akshay-ThinkPad-T470:~/Practice/vehicle-rental$ mvn clean install -T 1C
 [INFO] Total time:  1.257 s (Wall Clock)
 [INFO] Finished at: 2022-08-01T10:45:12+05:30
 [INFO] ------------------------------------------------------------------------
+```
 
-
-
+```
 akshay@akshay-ThinkPad-T470:~/Practice/vehicle-rental$ java -jar target/vehicle-rental-0.1.0.jar /home/akshay/Practice/vehicle-rental/vehicle-rental-data.txt
 TRUE
 TRUE
@@ -60,4 +61,4 @@ FALSE
 250
 900
 V2
-
+```
